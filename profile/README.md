@@ -12,13 +12,13 @@ In this guide, we compare 7 AI image detection tools. Explore their features, ad
 
 | Tool | Best For | Free Option | Starting Price |
 |---|---|---|---|
-| [Winston AI](#winston-ai) | Professional image verification | Trial available | Around $18/month |
-| [Hive AI Detector](#hive-ai-detector) | Business and platform screening | Free demo | Usage-based |
-| [Sightengine](#sightengine) | Developers and moderation | 2,000 free operations/month | $29/month |
-| [AI or Not](#ai-or-not) | Quick image checks | Free credits | $5/month |
-| [WasItAI](#wasitai) | Everyday image verification | Limited free checks | $3.99/month |
-| [Illuminarty](#illuminarty) | Visual analysis and heatmaps | Limited free checks | $10/month |
-| [Content Credentials Verify](#content-credentials-verify) | Checking image origin and history | Free | Free |
+| **Winston AI** | Professional image verification | Trial available | Around $18/month |
+| **Hive AI Detector** | Business and platform screening | Free demo | Usage-based |
+| **Sightengine** | Developers and moderation | 2,000 free operations/month | $29/month |
+| **AI or Not** | Quick image checks | Free credits | $5/month |
+| **WasItAI** | Everyday image verification | Limited free checks | $3.99/month |
+| **Illuminarty** | Visual analysis and heatmaps | Limited free checks | $10/month |
+|**Content Credentials Verify** | Checking image origin and history | Free | Free |
 
 *Prices are approximate USD amounts based on available plan information. Billing periods, credits, and features can change. Always check current pricing before subscribing.*
 
