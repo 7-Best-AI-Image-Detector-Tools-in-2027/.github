@@ -8,6 +8,20 @@ An [**AI Image Detector**](https://www.yttags.com/) helps users check whether a 
 
 In this guide, we compare 7 AI image detection tools. Explore their features, advantages, disadvantages, pricing, and reviews to find the right option for your needs.
 
+---
+
+## 📢 Promote Your AI Tool
+
+If you'd like to promote your AI tool, website, or software, contact us:
+
+📧 **Email** => [y2tags@gmail.com](y2tags@gmail.com)
+
+📱 **Telegram** => [Join our Telegram Channel](https://t.me/Yttags_Guest_post)
+
+We offer advertising opportunities, sponsored posts, product reviews, and content collaboration for AI tools, AI software, and technology-related businesses.
+
+---
+
 ## Quick Comparison of the 7 Best AI Image Detectors
 
 | Tool | Best For | Free Option | Starting Price |
